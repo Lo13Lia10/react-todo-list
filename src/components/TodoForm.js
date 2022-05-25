@@ -28,10 +28,10 @@ function TodoForm(props) {
     return (
         <form className='todo-form' onSubmit={handleSubmit}>
             {props.edit ? ( 
-            <>
+            <div className='todo-input-button'>
                 <input
                 type="text"
-                placeholder="Update the task"
+                placeholder="Modifier"
                 value={input}
                 name='text'
                 className='todo-input edit'
@@ -40,13 +40,13 @@ function TodoForm(props) {
                 >
                 </input>
                 <button className='todo-button edit'>Update</button> 
-            </>
+            </div>
             ) : 
             (
-            <>
+            <div className='todo-input-button'>
                 <input
                 type="text"
-                placeholder="Add a task"
+                placeholder="Ajouter une tâche"
                 value={input}
                 name='text'
                 className='todo-input'
@@ -55,8 +55,8 @@ function TodoForm(props) {
                 >
 
                 </input>
-                <button className='todo-button'>Add task</button>
-            </>
+                <button className='todo-button'>Ajouter une tâche</button>
+            </div>
             )
             }
             
