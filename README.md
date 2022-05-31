@@ -15,9 +15,7 @@ Développement : React.js, React Icons, CSS
 - Modifier une tâche
 - Supprimer une tâche
 - Cocher une tâche comme faite
-- Ajouter une description à une tâche
-- Modifier le détail d'une tâche
 
 ## Tutoriels utilisés
 - ToDo List React : https://www.youtube.com/watch?v=E1E08i2UJGI 
-- Fenêtre modale : 
+- Connexion à une API (Firebase) : https://firebase.google.com/docs/database/web/start 
