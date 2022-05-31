@@ -21,10 +21,12 @@ Développement : React.js, React Icons, CSS
 - Connexion à une API (Firebase) : https://firebase.google.com/docs/database/web/start 
 
 ## 📷 Capture d'écran et vidéo
-Google Drive : https://drive.google.com/drive/folders/1EvOFzOoCS0dlL1KxgoLIiPROqKgxppm6?usp=sharing
-Capture d'écran : 
+- Google Drive : https://drive.google.com/drive/folders/1EvOFzOoCS0dlL1KxgoLIiPROqKgxppm6?usp=sharing
+
+- Capture d'écran : 
 
 ![To-Do-List](https://user-images.githubusercontent.com/35294621/171278742-33e3c626-73f3-44da-a132-c65dfec7e509.png)
-Vidéo : 
+
+- Vidéo : 
 
 https://user-images.githubusercontent.com/35294621/171278873-10ab4c6b-02a6-4da7-a75b-2de56dc49de8.mp4
